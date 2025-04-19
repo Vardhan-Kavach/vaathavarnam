@@ -117,7 +117,7 @@ st.title("🌎 Precise Weather & Air Quality Tracker for Locations")
 st.markdown("Select your **Country → State → City/District** to get real-time **Weather** and **Air Quality** information!")
 
 # API Keys
-WEATHER_API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"
+WEATHER_API_KEY = "c072be6082a637189669ea81ea570824"
 
 # Countries List (You can expand manually if you want worldwide)
 countries_list = ["India", "United States", "Australia"]
